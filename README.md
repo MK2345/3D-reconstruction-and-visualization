@@ -1,3 +1,6 @@
+# Testing different viualization techniques using the cow and armarillo
+
+
 ## Point cloud Visualization
 
 <img src="images/cow.png">

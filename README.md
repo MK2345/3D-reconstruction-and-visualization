@@ -10,11 +10,11 @@
 
 <img src="images/armarillo_rec.png">
 
-## Poisson Surface Reconstruction of cow
+## Poisson Surface Reconstruction of the cow
 
 <img src="images/cow_rec.png">
 
-## Bill Pivot Reconstruction of cow
+## Bill Pivot Reconstruction of the cow
 
 <img src="images/cow_ball_pivot.png">
 
@@ -22,11 +22,11 @@
 
 <img src="images/cow_alpha_shapes.png">
 
-## Delaunay Triangulation of cow
+## Delaunay Triangulation of the cow
 
 <img src="images/cow_delaunay.png">
 
-## Visualize point cloud of cow
+## Visualize point cloud of the cow
 
 <img src="images/cow_visualized.png">
 

@@ -1,4 +1,4 @@
-# Testing different viualization techniques using the cow and armarillo
+# Testing different visualization techniques using the cow and armarillo
 
 
 ## Point cloud Visualization

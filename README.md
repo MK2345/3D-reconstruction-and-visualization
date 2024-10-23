@@ -17,7 +17,7 @@ primarily intended for practice purposes.
 
 <img src="images/cow_rec.png">
 
-## Bill Pivot Reconstruction of the cow
+## Ball Pivot Reconstruction of the cow
 
 <img src="images/cow_ball_pivot.png">
 

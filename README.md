@@ -1,5 +1,4 @@
 # Testing different visualization techniques using the cow and armarillo
-
 This repository is a work in progress and will continue to be expanded and enhanced. It is
 primarily intended for practice purposes.
 
